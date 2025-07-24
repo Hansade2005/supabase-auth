@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/supabase-auth/oauth2/callback",
+      "destination": "/api/supabase-auth/oauth2/callback.js"
+    }
+  ]
+}
